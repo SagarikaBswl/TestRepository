@@ -1,0 +1,49 @@
+{
+    "RetirementCalcLink" : "https://www.securian.com/insights-tools/retirement-calculator.html" ,
+
+    "TC001_AllRequiredFields" : {
+        "CurrentAge" : "30",
+        "RetirementAge" : "62",
+        "CurrentAnnualIncome" : "500000",
+        "CurrentRetirementSavings" : "300000",
+        "CurrentAnnualRetirementSavings" : "10",
+        "AnnualRetirementSavingsIncrease" : "2",
+        "SocialSecurityIncome" : "Yes",
+        "MaritalStatus" : "Married"
+
+    },
+    "TC002_AllFieldsInput" : {
+        "CurrentAge" : "32",
+        "RetirementAge" : "65",
+        "CurrentAnnualIncome" : "500000",
+        "SpouseAnnualIncome" : "550000",
+        "CurrentRetirementSavings" : "350000",
+        "CurrentAnnualRetirementSavings" : "13",
+        "AnnualRetirementSavingsIncrease" : "1",
+        "SocialSecurityIncome" : "Yes",
+        "MaritalStatus" : "Married",
+        "SocialSecurityOverride" : "5000",
+        "AdditionalIncome" : "1000",
+        "YearsRetirementSavingsLasts" : "20",
+        "PostRetirementIncomeIncWithInflation" : "Yes",
+        "ExpectedInflationRate" : "6",
+        "PartOfAnuIncomeNeedYearlyAftrRetirement" : "70",
+        "PreRetirementInvestmentReturn" : "9",
+        "PostRetirementInvestmentReturn" : "9"
+
+    },
+    "TC003_UpdateDefaultFields" : {
+        "AdditionalIncome" : "1000",
+        "YearsRetirementSavingsLasts" : "20",
+        "PostRetirementIncomeIncWithInflation" : "Yes",
+        "ExpectedInflationRate" : "7",
+        "PartOfAnuIncomeNeedYearlyAftrRetirement" : "75",
+        "PreRetirementInvestmentReturn" : "9",
+        "PostRetirementInvestmentReturn" : "9",
+        "UpdatedAdditionalIncome" : "1500",
+        "UpdatedYearsRetirementSavingsLasts" : "15"
+
+    }
+
+
+}
